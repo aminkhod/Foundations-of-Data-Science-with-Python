@@ -36,7 +36,7 @@
                 "type": "value",
                 "value": "0.2",
                 "correct": true,
-                "feedback": "Correct! We can write \\( P(F \\cap H_1 \\cap H_2) = P(H_1 \\cap H_2 |F) P(F)\\) \\(= P(H_1|F)P(H_2|F)P(F) = (1/2)(1/2)(452) = 1/5\\)."
+                "feedback": "Correct! We can write \\( P(F \\cap H_1 \\cap H_2) = P(H_1 \\cap H_2 |F) P(F)\\) \\(= P(H_1|F)P(H_2|F)P(F) = (1/2)(1/2)(4/5) = 1/5\\)."
             },
             {
                 "type": "default",

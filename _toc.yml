@@ -90,6 +90,8 @@ sections:
   - file: 09-moments/expected-value-continuous
   - file: 09-moments/moments
   - file: 09-moments/parameter-estimation
+  - file: 09-moments/confidence-intervals-estimates
+  - file: 09-moments/mean-hypothesis-testing
   - file: 09-moments/outline
 - file: 10-conditional-stats/outline
 - file: 11-matrix-vector-regression/outline

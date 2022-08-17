@@ -94,7 +94,8 @@ sections:
   - file: 09-moments/mean-hypothesis-testing
   - file: 09-moments/parameter-distributions
   - file: 09-moments/sample-size-selection
-  - file: 09-moments/outline
+  - file: 09-moments/review
+  - file: 09-moments/summary
 - file: 10-conditional-stats/outline
 - file: 11-matrix-vector-regression/outline
 - file: 12-categorical-data/outline

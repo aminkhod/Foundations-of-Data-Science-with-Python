@@ -3,7 +3,7 @@ title: "Foundations of Data Science with Python"
 author: John M. Shea
 copyright: "2021-2022"
 only_build_toc_files: true
-#logo: images/logo.png
+logo: intro/normal-people.png
 execute:
   execute_notebooks: "off"
 parse:

@@ -27,6 +27,8 @@ sphinx:
     ogp_site_url: "https://jmshea.github.io/Foundations-of-Data-Science-with-Python/"
     ogp_image: "https://jmshea.github.io/Foundations-of-Data-Science-with-Python/_images/tools.png"
     ogp_description_length: 200
+    mathjax3_config: { loader: {load: ['[tex]/action']}, tex: {packages: {'[+]': ['action']}}}
+
 
 html:
   base_url: https://jmshea.github.io/Foundations-of-Data-Science-with-Python/

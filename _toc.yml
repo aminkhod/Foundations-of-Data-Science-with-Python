@@ -96,7 +96,10 @@ sections:
   - file: 09-moments/sample-size-selection
   - file: 09-moments/review
   - file: 09-moments/summary
-- file: 10-conditional-stats/outline
+- file: 10-conditional-stats/intro
+  sections:
+  - file: 10-conditional-stats/binary-decisions-nonbayesian
+  - file: 10-conditional-stats/outline
 - file: 11-matrix-vector-regression/outline
 - file: 12-categorical-data/outline
 - file: 13-clustering-transforming/outline
